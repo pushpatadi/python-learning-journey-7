@@ -19,12 +19,20 @@ to become a Software Engineer through consistent practice.
 
 ## DAY 2
 
-Today I Learned 
+Today I Learned:
 -Learned what an algorithm is.
 -Learned what a Flowchart is.
 -Learned what a Pseudocode is.
 -Solved Additon of two numbers.
 -Practice Multiplication.
+-Got an small idea on Variables
+
+
+### 🚀Mini Project
+- ➕Addition Calculator
+
+
+ 
 
 ###🧠 My Understanding 
 
