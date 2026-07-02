@@ -15,7 +15,8 @@ Wrote my first python program
 ### 🎯 My goal
 to become a Software Engineer through consistent practice.
 
-"I am not going to give up this time"
+## 💙Day1 Motivation:
+> "I am not going to give up this time"
 
 ## DAY 2
 
@@ -25,7 +26,7 @@ Today I Learned:
 -Learned what a Pseudocode is.
 -Solved Additon of two numbers.
 -Practice Multiplication.
--Got an small idea on Variables
+-Got an small idea on 
 
 
 ### 🚀Mini Project
@@ -48,9 +49,13 @@ writing program logic in simple english before coding
 ### 💻 Mini practice 
 ✅Addition of two numbers
 ✅ Multiplication of two numbers
- ## 🚀 Next Goal
 
- Learn python Variables and Data Types
+## 💙Day2 Motivatioin:
+>"Every small step I take today brings me closer to becoming a Software Engineer."
+
+ ## 🚀 Next Goal
+📖 Learn python Variables and Data Types
+
 💙Thank you for visiting my repository 
 
 
