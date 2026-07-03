@@ -2,7 +2,7 @@
 name = "sreekar"
 age = 18
 city = "Bhimavaram"
- 
+
 
 print(name)
 print(age)
