@@ -54,7 +54,29 @@ writing program logic in simple english before coding
 >"Every small step I take today brings me closer to becoming a Software Engineer."
 
  ## 🚀 Next Goal
-📖 Learn python Variables and Data Types
+📖  python Variables and Data Types
+
+## Day 3
+📚Today I Learned
+-☑️Keywords
+-☑️Identifiers
+-☑️Variables
+-☑️Constants
+-☑️Literals
+-☑️introduction to Data Types
+
+### 💻 Practice
+
+-Declared variables
+-Understood identifiers and literals
+-Learned different types of data
+
+### 🚀Next Goal
+Learn Python Data Types in detail and practice writing programs.
+
+### 💙 Day 3 Motivation
+> "Small progress each day dds up to big results."
+
 
 💙Thank you for visiting my repository 
 
