@@ -77,6 +77,29 @@ Learn Python Data Types in detail and practice writing programs.
 ### 💙 Day 3 Motivation
 > "Small progress each day dds up to big results."
 
+## Day 4
+📘Today I Learned:
+-☑️ String
+-☑️ Integer
+-☑️ Float
+-☑️ Boolean
+-☑️ Using multiple variables in one program
+-☑️ Printing text witn variables
+
+🧠My Understanding
+
+Variables can store different types of data like text, numbers and True/False values
+We can print() with commas to display text and variable values together.
+
+### 💻Mini Project
+- Student Profile Card
+
+### 🎯Next Goal
+-Learn input() function
+
+### 💙 Day 4 Motivation
+> "Success comes from showing up consistently every single day"
+
 
 💙Thank you for visiting my repository 
 
