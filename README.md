@@ -95,10 +95,31 @@ We can print() with commas to display text and variable values together.
 - Student Profile Card
 
 ### 🎯Next Goal
--Learn input() function
+-Type coversion, ASCII Values and Arithmetic Operators
 
 ### 💙 Day 4 Motivation
 > "Success comes from showing up consistently every single day"
+
+## Day 5
+📖 Today I Learned:
+- ☑️ Data Types
+- ☑️ Type Conversion
+- ☑️ASCII Values
+- ☑️ Arithmetic Operators
+
+### 💻 Practice
+- Used type()
+- Converted string to integer using int()
+
+### 🚀 Mini Project
+-Shopping Bill Calculator
+
+### 🎯Next Goal
+
+Learn Other Operators (Assignment, Comparison, Logical, Bitwise, Membership, and Identity Operators)
+
+### 💙 Day 5 Motivation
+> "Practice makes progress"
 
 
 💙Thank you for visiting my repository 
