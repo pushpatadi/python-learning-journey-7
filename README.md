@@ -122,6 +122,37 @@ Learn Other Operators (Assignment, Comparison, Logical, Bitwise, Membership, and
 > "Practice makes progress"
 
 
+## Day 6
+
+📖 Today I Learned:
+-☑️ Assignment Operators
+-☑️ Comparison Operators
+-☑️ Logical Operators
+-☑️ Bitwise Operators
+-☑️ Membership Operators
+-☑️ Identity Operators
+-☑️ Operator Precedence
+
+### 💻 Practice 
+
+- Practiced assignment operators (+=, -=, *=, /=)
+- Compared values using comparision operators
+- Used logical operators (and, or, not)
+- Learned membership operators (in,  not in,)
+- Learned identity opertors (is, is not)
+- Understood operator precedence
+
+### 🚀 Mini Project
+- Student Eligibility Checker
+
+### 🎯 Next Goal
+Learn User Input ('input()')
+
+###💙Day 6 Motivation
+
+>"Cosistency beats perfection."
+
+
 💙Thank you for visiting my repository 
 
 
