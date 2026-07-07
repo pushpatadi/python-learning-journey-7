@@ -151,6 +151,32 @@ Learn User Input ('input()')
 ###💙Day 6 Motivation
 
 >"Cosistency beats perfection."
+### Day 7
+ Today I Learned
+ -☑️ Input Statements
+ -☑️ Output Statements
+ -☑️ int(input())
+ -☑️ float(input())
+ -☑️ User Input
+ -☑️ sep parameter
+ -☑️ end parameter
+
+ ### 💻 Practice
+ - Took inpuut from the user
+ - Converted input using int() and float()
+ - Displayed formatted output
+ - Practiced sep and end parameters
+
+### 🚀 Mini project
+
+- Student Information Form
+- 
+### 🎯Next Goal
+Learn conditional statements (if, elif, else)
+
+### 💙 Day 7 Motivation
+> "Every line of code I write makes me a better programmer"
+
 
 
 💙Thank you for visiting my repository 
