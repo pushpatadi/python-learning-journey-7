@@ -172,10 +172,29 @@ Learn User Input ('input()')
 - Student Information Form
 - 
 ### 🎯Next Goal
-Learn conditional statements (if, elif, else)
+practice problems 
 
 ### 💙 Day 7 Motivation
 > "Every line of code I write makes me a better programmer"
+
+
+### Day 8
+
+## 🧠Problem Solving
+
+Today I solved Python practice problems based on the concepts learned durig the first 7 days
+
+Topics covered:
+- Variables
+- Data Types
+- Type Conversions
+- Operators
+- Input & Output
+### 🎯Next Goal
+Learn Decision making
+
+### 💙DAY 8 Motivation
+> "One problem at a time. One step closer to succes."
 
 
 
