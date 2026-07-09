@@ -180,22 +180,36 @@ practice problems
 
 ### Day 8
 
-## 🧠Problem Solving
+## 🧠Problem Solving Practice ☑️
 
 Today I solved Python practice problems based on the concepts learned durig the first 7 days
 
-Topics covered:
+### Poblems Solved
+- Addition of Two Numbers
+- Recatangle Area
+- Simple Interest
+- Celsiu to Fahrenheit Conversion
+- Student Total and Average
+- Circle Area
+- Rectangle Perimeter
+- Swap Two Numbers
+- More arithmetic practice
+- Input and Output practice
+
+✨Learned: 
+- User Input
 - Variables
-- Data Types
-- Type Conversions
-- Operators
-- Input & Output
+- Arithmetic Operators
+- Formula Implementation
+- Problem Solving
+- Debugging Errors
+
+
 ### 🎯Next Goal
 Learn Decision making
 
 ### 💙DAY 8 Motivation
 > "One problem at a time. One step closer to succes."
-
 
 
 💙Thank you for visiting my repository 
