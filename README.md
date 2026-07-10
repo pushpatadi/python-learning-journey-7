@@ -212,6 +212,30 @@ Learn Decision making
 > "One problem at a time. One step closer to succes."
 
 
+### Day 9
+Today I Learned:
+
+- ☑️if statement
+- ☑️elif statement
+- ☑️else statement
+- ☑️Solved 10+ conditional statement problems
+- ☑️Improved logical thinking with decison making
+- ☑️Practiced Python conditions using real examples
+
+### Today's Achievement: 
+☑️ Completed 20 Python practice problems.
+
+### 🎯 Next Goal
+
+- Learn Nested if statements
+- Build my first Decision Making mini project
+- Improve my problem-solving skills with more Python practice
+
+
+### 💙 Day 9 Motivation:
+>"Every problem I solve today makes me a better programmer tomorrow."
+
+
 💙Thank you for visiting my repository 
 
 
