@@ -236,6 +236,37 @@ Today I Learned:
 >"Every problem I solve today makes me a better programmer tomorrow."
 
 
+### 📆Day 10
+
+Today I Learned:
+- ☑️ Nested if Statements
+- ☑️ Decision Making Practice
+- ☑️ Built a Console Calculator Project
+- ☑️ Introducton to Tkinter
+- ☑️ Created My First GUI Window
+- ☑️ Learned Labels
+- ☑️ Learned Entry (Input Box )
+- ☑️ Learned Buttons
+
+## 🎯Next Goal:
+- Make the Submit button perform an action
+- Display a personalized welcom message
+- Continue building my first GUI application
+
+## 💙 Day 10 Motivation:
+>"Small progress every day creates big success over time."
+
+## 🪴Learning Journey
+Today I enrtered the world of GUI programming with tkinter. I built my first python window, added labels, an input box, and a button. This is my first step from terminal- based programs to real graphical applications. 🚀
+
+
+
+
+
+
+
+
+
 💙Thank you for visiting my repository 
 
 
