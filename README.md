@@ -256,15 +256,42 @@ Today I Learned:
 ## 💙 Day 10 Motivation:
 >"Small progress every day creates big success over time."
 
+
+### 📆Day 11 
+
+Today I Learned:
+- ☑️ Strings
+- String Indexing
+
+## 💻 Project Built
+  ### ⭐Pushpa's First GUI App
+
+My first graphical application built using **Tkinter*8 .
+
+### Features:
+- Created my first application window
+- Displayed welcome messages using Labels
+- Accepted user input using Submit button
+- Displayed a personalized greeting after clicking Submit
+
+## 🧠Practice
+- ✔️ Solved Problems
+- ✔️ Total Problems Completed : ** 30 **
+
+## 💡What I improved Today
+
+Today I Learned how string work in Python and how to access individual characters using indexing. I also built my first GUI application using Tkinter, which helped me undertand how Python can create interactive desktop applications.
+
+
+
+
+
+
 ## 🪴Learning Journey
 Today I enrtered the world of GUI programming with tkinter. I built my first python window, added labels, an input box, and a button. This is my first step from terminal- based programs to real graphical applications. 🚀
 
-
-
-
-
-
-
+### 💙Day 11 Motivation:
+>" Learning one concept at a time is still moving forward. "
 
 
 💙Thank you for visiting my repository 
