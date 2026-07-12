@@ -17,7 +17,7 @@ to become a Software Engineer through consistent practice.
 
 ## 💙Day1 Motivation:
 > "I am not going to give up this time"
-
+ 
 ## DAY 2
 
 Today I Learned:
