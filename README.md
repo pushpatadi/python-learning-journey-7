@@ -284,14 +284,39 @@ Today I Learned how string work in Python and how to access individual character
 
 
 
-
-
-
 ## 🪴Learning Journey
 Today I enrtered the world of GUI programming with tkinter. I built my first python window, added labels, an input box, and a button. This is my first step from terminal- based programs to real graphical applications. 🚀
 
 ### 💙Day 11 Motivation:
 >" Learning one concept at a time is still moving forward. "
+
+
+ ### 📆 Day 12
+
+ Today I Learned :
+- String Slicing
+- Positive Slicing
+- Negative Slicing
+- Step Slicing
+
+ ## 🧠Practice :
+ - ✔️Solved Problems 31-35
+ - ✔️Total Problems Completed : ** 35 **
+
+  ## What I Improved Today
+  Today I Learned how to use string slicing to access different parts of a string.
+
+  ### 🎯 Next Goal : 
+  -  Learn String Concantenation
+  -  Learn String Methods
+  -  Learn String Formatting
+  -  Learn Escape Sequences
+  -  Solve more practice problems
+
+
+  ### 💙 Day 12  Motivation :
+ > "Confidence grows with every problem you solve on your own."
+ 
 
 
 💙Thank you for visiting my repository 
