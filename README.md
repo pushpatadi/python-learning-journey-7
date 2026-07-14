@@ -316,7 +316,35 @@ Today I enrtered the world of GUI programming with tkinter. I built my first pyt
 
   ### 💙 Day 12  Motivation :
  > "Confidence grows with every problem you solve on your own."
- 
+
+
+ ### 📆 Day 13
+Today I Learned:
+- String Concantenation
+- String Methods
+- String Formatting
+- Escape Sequences
+- String Slicing Revision
+- Reverse String using Slicing
+- Positive and Negative Indexing
+
+## 💻Pracrice
+- ☑️ Solved Problems 36-40
+- 🎯 Total Problems Completed: **40**
+
+## 🧠Today's Learning 
+
+Today I revised string slicing Nand practiced different slicing techniques.
+
+## 🚀 Next Goal
+
+- Practice more string-based problems
+- Build another mini project
+- Continue improving Python fundamentals
+
+
+ ### 💙 Day 13 Motivation
+ > "More Practice, More Perfection."
 
 
 💙Thank you for visiting my repository 
