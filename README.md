@@ -356,6 +356,11 @@ Today I revised string slicing Nand practiced different slicing techniques.
 - Learned hoe the 'countries, statement skips the current iteration.
 - Practice nested loops.
 - Strengthened loop logic by solving practice problems.
+- while Loop
+- if-Else inside While Loop
+- User input Validation
+- Building an interactive Number Guessing Game
+- Loop-based program Logic
 
 ### 💻 Practice Completed:
 - ☑️ Solved Problems **41-45
