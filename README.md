@@ -347,6 +347,30 @@ Today I revised string slicing Nand practiced different slicing techniques.
  > "More Practice, More Perfection."
 
 
+### 📆 Day 14
+
+## 📖 Today I Learned:
+- Understood the difference between 'for' loop and 'while' loop.
+- Practiced using the 'range()' function.
+- Learned how the 'break' statement stops a loop.
+- Learned hoe the 'countries, statement skips the current iteration.
+- Practice nested loops.
+- Strengthened loop logic by solving practice problems.
+
+### 💻 Practice Completed:
+- ☑️ Solved Problems **41-45
+- ☑️ Printed even and odd numbers
+- ☑️ Built a multiplication table using loops
+- ☑️ Practiced reverse counting
+
+### 🎯 Progress
+- 📚 Total Python Problems Solved: **45**
+- 🚀 Github Learning Journey Updated
+- 🧠 Problem Solving Repository Updated
+
+### 💙 Day 14 Motivation:
+> "Discipline beats motivation. Every small step today builds a stronger future tomorrow. 🌱"
+
 💙Thank you for visiting my repository 
 
 
