@@ -395,6 +395,47 @@ Consistency is paying off. 🚀
 ### 💙 Day 14 Motivation:
 > "Discipline beats motivation. Every small step today builds a stronger future tomorrow. 🌱"
 
+
+### 📆 Day 15
+
+## 📚 Topics Covered Today
+
+- ✅ for Loop Revision
+- ✅ while Loop Practice
+- ✅ Printing Even Numbers using while Loop
+- ✅ Printing Odd Numbers using while Loop
+- ✅ Reverse Counting using while Loop
+- ✅ Sum of Numbers using while Loop
+- ✅ Password Validation using while Loop
+- ✅ Number Guessing Game using while Loop
+- ✅ Logic Building with Loops
+
+
+## 💡 What I Learned Today
+
+- Learned when to use `while` loops instead of `for` loops.
+- Understood the importance of updating the loop variable to avoid infinite loops.
+- Practiced solving real-world problems using loops.
+- Improved my logical thinking by building small programs.
+- Gained more confidence in writing loop-based programs independently.
+
+
+## ✅ Today's Progress
+
+- [x] Revised for Loops
+- [x] Practiced while Loops
+- [x] Solved Loop-based Problems
+- [x] Built Password Validation Program
+- [x] Built Number Guessing Game
+- [x] Improved Logic Building Skills
+
+## 🌱 Reflection
+
+Today's session helped me realize that writing many small programs is the best way to understand loops. Every problem improved my confidence and strengthened my programming fundamentals.
+
+### 💙 Day 15 Motivation:
+> "I may not know everything today, but I know more than I did yesterday. Consistency is my superpower. 💙"
+
 💙Thank you for visiting my repository 
 
 
