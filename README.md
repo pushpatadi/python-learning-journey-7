@@ -12,6 +12,7 @@ Today I learned:
 Wrote my first python program
 -Learned how to use print()
 
+
 ### 🎯 My goal
 to become a Software Engineer through consistent practice.
 
