@@ -437,6 +437,41 @@ Today's session helped me realize that writing many small programs is the best w
 ### 💙 Day 15 Motivation:
 > "I may not know everything today, but I know more than I did yesterday. Consistency is my superpower. 💙"
 
+
+
+### 📆Day 16
+🎯Topics covered
+- Introduction to Functions
+- def Keywords
+- Function Call
+- Function definition
+- Parameters
+- arguments
+- Multiple Parameters
+- Return Statement
+- Difference between print() and return
+- Function with if-else
+
+  ## 📝 What I Learned Today
+
+- Learned how to create and call functions.
+- Understood the difference between parameters and arguments.
+- Learned why return is used instead of print in functions.
+- Practiced returning values from functions.
+- Used if-else conditions inside functions.
+- Built confidence in writing reusable functions.
+
+
+## 💙 Day 16 Motivation:
+> 💡 "Understanding a concept is far more valuable than memorizing syntax."
+
+
+
+
+
+
+
+
 💙Thank you for visiting my repository 
 
 
